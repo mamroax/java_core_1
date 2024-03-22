@@ -27,7 +27,7 @@
 
 ---------------  S U M M A R Y ------------
 
-Command Line: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\lib\idea_rt.jar=64705:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\bin -Dfile.encoding=UTF-8 notes.NotesApp
+Command Line: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\lib\idea_rt.jar=64705:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\bin -Dfile.encoding=UTF-8 project.work.notes.NotesApp
 
 Host: AMD Ryzen 5 5500U with Radeon Graphics         , 12 cores, 15G,  Windows 11 , 64 bit Build 22621 (10.0.22621.3235)
 Time: Thu Mar 21 17:00:14 2024 RTZ 2 (s 11 , 64 bit Build 22621 (10.0.22621.3235) elapsed time: 0.017104 seconds (0d 0h 0m 0s)
@@ -161,7 +161,7 @@ symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Pr
 
 VM Arguments:
 jvm_args: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\lib\idea_rt.jar=64705:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\bin -Dfile.encoding=UTF-8 
-java_command: notes.NotesApp
+java_command: project.work.notes.NotesApp
 java_class_path (initial): C:\Users\mamro\Desktop\Geekbrains\Java_Core\java_core_1\first_project\out\production\first_project
 Launcher Type: SUN_STANDARD
 

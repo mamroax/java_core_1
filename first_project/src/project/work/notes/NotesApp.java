@@ -1,6 +1,6 @@
-package notes;
+package project.work.notes;
 
-import utils.DateTimeUtils;
+import project.work.utils.DateTimeUtils;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -16,7 +16,7 @@ public class NotesApp {
         String dateTime = DateTimeUtils.getDateTime();
         String entry = dateTime + " -> " + note;
 
-        File file = new File("notes.txt");
+        File file = new File("project.work.notes.txt");
 
         try {
             FileWriter fileWriter = new FileWriter(file, true);
